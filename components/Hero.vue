@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="hero--img-container">
-      <img src="~/assets/images/1.png" alt="Track Waste Now">
+      <img src="~/assets/images/1.jpg" alt="Track Waste Now">
     </div>
   </section>
 </template>
