@@ -2,7 +2,7 @@
   <header class="toolbar">
     <div class="toolbar--container">
       <a href="#_" class="text--logo text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300">
-        Starter
+        ReuseChain
       </a>
 
       <div class="relative z-10 inline-flex items-center space-x-3 md:ml-5 lg:justify-end">
