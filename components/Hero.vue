@@ -2,10 +2,10 @@
   <section class="hero md:px-0">
     <div class="hero--container">
       <h1 class="hero--headings">
-        <span class="block">ReuseChain is Blockchain based Waste Management in Smart City <span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Website</span></span>
+        <span class="block"> Blockchain makes Waste Management Simple <span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Website</span></span>
       </h1>
       <p class="hero--description">
-        Circular Economy Model is at the heart of business cases of ReuseChain
+      We track end-terminals of waste supply chain as well as follow circular economy
       </p>
       <div class="hero--actions md:space-x-4">
         <a href="#" class="btn btn--primary">
