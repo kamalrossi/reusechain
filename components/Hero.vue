@@ -1,4 +1,4 @@
-<template>
+  <template>
   <section class="hero md:px-0">
     <div class="hero--container">
       <h1 class="hero--headings">
