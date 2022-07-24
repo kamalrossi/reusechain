@@ -4,13 +4,13 @@
       <div class="flex flex-col items-center lg:flex-row">
           <div class="flex flex-col items-start justify-center w-full h-full mb-10 lg:mb-0 lg:w-1/2">
             <p class="testimonial--subheading">
-              Our customers love our product
+              Citizen voice is our inspirations
             </p>
             <h3 class="testimonial--heading">
-              What they say about us
+             They are loudly on our feedback
             </h3>
             <p class="testimonial--description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+   We cherish the first moments when we listen to their problems and find a tech solutions
             </p>
           </div>
           <div class="w-full lg:w-1/2 space-y-4">
